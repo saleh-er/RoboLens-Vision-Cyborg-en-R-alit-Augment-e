@@ -1,0 +1,76 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Environnements Virtuels (Très important) ---
+# Noms communs pour les venv
+venv/
+env/
+.venv/
+.env/
+venv.bak/
+
+# --- Installers ---
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- IDEs et Editeurs ---
+# VS Code
+.vscode/
+# PyCharm / IntelliJ
+.idea/
+# Sublime Text
+*.sublime-workspace
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# --- Système d'exploitation ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Fichiers spécifiques au projet RoboLens ---
+# Si vous enregistrez des vidéos ou faites des screenshots de test
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+
+# Exception : On VEUT garder les images du dossier assets !
+!assets/*.png
+!assets/*.jpg
+
+# Logs et erreurs
+*.log
