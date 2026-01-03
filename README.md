@@ -7,7 +7,7 @@ Transformez votre webcam en miroir futuriste avec Python ! Ce projet utilise l'I
 * **Oeil Bionique** : Tracking oculaire précis en temps réel.
 * **Armure Faciale** : Masque robotique qui suit les mouvements de la mâchoire.
 
-## 🛠 Installation
+##  Installation
 1. Installez les dépendances :
    ```bash
    pip install opencv-python mediapipe numpy
