@@ -1,6 +1,7 @@
 # RoboLens : Vision Cyborg en Réalité Augmentée 🤖
 
-Transformez votre webcam en miroir futuriste avec Python ! Ce projet utilise l'IA (MediaPipe & OpenCV) pour fusionner votre visage avec des composants robotiques en temps réel.
+Transformez votre webcam en miroir futuriste avec Python .
+Ce projet utilise l'IA (MediaPipe & OpenCV) pour fusionner votre visage avec des composants robotiques en temps réel.
 
 ##  Fonctionnalités
 * **Interface HUD** : Overlay néon immersif style Iron Man.
